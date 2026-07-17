@@ -1,13 +1,7 @@
 # LilyGo T-LoRa Pager 电子书阅读器
 
-## R3 深色阅读与休眠版
+<img width="1200" height="420" alt="lilygo-t-lora-pager-reader-hero" src="https://github.com/user-attachments/assets/5603fd55-884a-4be1-b3f3-2554080f9fbe" />
 
-<img width="4096" height="2728" alt="LilyGo T-LoRa Pager 电子书阅读器" src="https://github.com/user-attachments/assets/8e24cb25-b9a4-4fd3-81ce-f0bb46d469e0" />
-
-
-请使用 `T-LoRa-Pager-eReader-R3-DARK-SLEEP-SX1262.bin`。这个文件使用全新名称，避免下载缓存继续提供旧固件。
-
-刷入成功后，主菜单标题必须显示 `T-LoRa Pager 阅读器 R3`。如果没有看到 `R3`，设备仍在运行旧镜像。
 
 ## 适用硬件
 
@@ -49,6 +43,8 @@ R3 固件 SHA-256：
 - 浏览器地址：`http://192.168.4.1`
 
 上传内容直接分块写入 SD 卡的 `/books`。
+
+<img width="4096" height="2728" alt="LilyGo T-LoRa Pager 电子书阅读器" src="https://github.com/user-attachments/assets/8e24cb25-b9a4-4fd3-81ce-f0bb46d469e0" />
 
 ## 操作
 
